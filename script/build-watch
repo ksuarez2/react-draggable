@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash -x
 
 function finish {
   echo -e "\nExiting..."
